@@ -4,6 +4,7 @@ Resources for Learning Probability and Statistics
 # Probability Courses
 
 1. CS109: Probability for Computer Scientists
+2. <a href = "https://www.math.uci.edu/~rvershyn/teaching/2016-17/525/525.html">MATH/STATS 525</a>
 
 # Statistics Courses
 
