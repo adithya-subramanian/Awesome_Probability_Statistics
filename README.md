@@ -7,6 +7,7 @@ Resources for Learning Probability and Statistics
 2. <a href = "https://www.math.uci.edu/~rvershyn/teaching/2016-17/525/525.html">MATH/STATS 525</a>
 3. <a href = "https://www.math.uci.edu/~rvershyn/teaching/2007-08/235B/235B.html">Probability Theory, MATH/STAT 235B</a>
 4. <a href = "https://sites.math.washington.edu/~ddrusv/crs/Math_581_2019/MATH581">MATH 581: High Dimensional Probability and Statistical Learning</a>
+5. <a href = "http://willperkins.org/6221/">Advanced Classical Probability</a>
 
 # Statistics Courses
 
