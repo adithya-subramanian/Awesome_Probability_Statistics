@@ -16,3 +16,4 @@ Resources for Learning Probability and Statistics
 2. <a href = "https://www.stat.tamu.edu/~debdeep/613_s18.html">STAT 613: Statistical Methodology I</a>
 3. <a href = "https://www.stat.tamu.edu/~debdeep/689_s19.html">STAT 689: Frontiers in Statistics</a>
 4. <a href = "https://www.stat.tamu.edu/~debdeep/695_f19.html">STAT 695: Advanced algorithms in Bayesian computing</a>
+5. <a href = "http://www2.stat.duke.edu/~rcs46/bayes.html">STA 360/601: Bayesian Methods and Modern Statistics</a>
