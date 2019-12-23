@@ -17,3 +17,9 @@ Resources for Learning Probability and Statistics
 3. <a href = "https://www.stat.tamu.edu/~debdeep/689_s19.html">STAT 689: Frontiers in Statistics</a>
 4. <a href = "https://www.stat.tamu.edu/~debdeep/695_f19.html">STAT 695: Advanced algorithms in Bayesian computing</a>
 5. <a href = "http://www2.stat.duke.edu/~rcs46/bayes.html">STA 360/601: Bayesian Methods and Modern Statistics</a>
+
+# Machine Learning Courses
+
+1. <a href = "http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html">Advanced Topics in Machine Learning </a>
+2. <a href = "http://sami.haija.org/cs699/index.html">Representation Learning: Theory and Practice</a>
+3. <a href = "https://www.cse.wustl.edu/~garnett/cse515t/fall_2019/">Bayesian Methods in Machine Learning</a>
