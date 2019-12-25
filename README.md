@@ -23,3 +23,4 @@ Resources for Learning Probability and Statistics
 1. <a href = "http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html">Advanced Topics in Machine Learning </a>
 2. <a href = "http://sami.haija.org/cs699/index.html">Representation Learning: Theory and Practice</a>
 3. <a href = "https://www.cse.wustl.edu/~garnett/cse515t/fall_2019/">Bayesian Methods in Machine Learning</a>
+4. <a href = "https://samuelcheng.info/information_theory_2017/index.html">Information Theory and Statistical Inference</a>
