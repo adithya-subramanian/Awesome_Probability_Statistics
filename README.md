@@ -24,3 +24,4 @@ Resources for Learning Probability and Statistics
 2. <a href = "http://sami.haija.org/cs699/index.html">Representation Learning: Theory and Practice</a>
 3. <a href = "https://www.cse.wustl.edu/~garnett/cse515t/fall_2019/">Bayesian Methods in Machine Learning</a>
 4. <a href = "https://samuelcheng.info/information_theory_2017/index.html">Information Theory and Statistical Inference</a>
+5. <a href = "https://cse291-i.github.io/#announcements">Machine learning on geometric data</a>
