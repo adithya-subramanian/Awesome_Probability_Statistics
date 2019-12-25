@@ -25,3 +25,4 @@ Resources for Learning Probability and Statistics
 3. <a href = "https://www.cse.wustl.edu/~garnett/cse515t/fall_2019/">Bayesian Methods in Machine Learning</a>
 4. <a href = "https://samuelcheng.info/information_theory_2017/index.html">Information Theory and Statistical Inference</a>
 5. <a href = "https://cse291-i.github.io/#announcements">Machine learning on geometric data</a>
+6. <a href = "http://www.cs.umd.edu/~djacobs/CMSC828/CMSC828J_13.htm">Subspaces and Manifolds for Computer Vision and Machine Learning</a>
