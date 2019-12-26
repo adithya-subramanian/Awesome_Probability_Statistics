@@ -27,3 +27,6 @@ Resources for Learning Probability and Statistics
 5. <a href = "https://cse291-i.github.io/#announcements">Machine learning on geometric data</a>
 6. <a href = "http://www.cs.umd.edu/~djacobs/CMSC828/CMSC828J_13.htm">Subspaces and Manifolds for Computer Vision and Machine Learning</a>
 7. <a href = "http://cs233.stanford.edu/">Geometric and Topological Data Analysis</a>
+8. <a href = "https://shanzhenren.github.io/csci-699-replnlp-2019fall/">Advanced Topics in Representation Learning for NLP</a>
+9. <a href = "http://ink-ron.usc.edu/xiangren/ml4know19spring/schedule.html">Machine Learning for Knowledge Extraction and Reasoning</a>
+10. <a href = "http://ink-ron.usc.edu/xiangren/ie18fall/schedule.html">Introduction to Information Extraction</a>
