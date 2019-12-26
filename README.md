@@ -9,6 +9,7 @@ Resources for Learning Probability and Statistics
 4. <a href = "https://sites.math.washington.edu/~ddrusv/crs/Math_581_2019/MATH581">MATH 581: High Dimensional Probability and Statistical Learning</a>
 5. <a href = "http://willperkins.org/6221/">Advanced Classical Probability</a>
 6. <a href = "https://www.cs.cmu.edu/~psarkar/sds321.html">SDS321: Introduction to Probability and Statistics</a>
+7. <a href = "http://web.stanford.edu/class/stats310a/index.html">Theory of Probability</a>
 
 # Statistics Courses
 
@@ -17,6 +18,9 @@ Resources for Learning Probability and Statistics
 3. <a href = "https://www.stat.tamu.edu/~debdeep/689_s19.html">STAT 689: Frontiers in Statistics</a>
 4. <a href = "https://www.stat.tamu.edu/~debdeep/695_f19.html">STAT 695: Advanced algorithms in Bayesian computing</a>
 5. <a href = "http://www2.stat.duke.edu/~rcs46/bayes.html">STA 360/601: Bayesian Methods and Modern Statistics</a>
+6. <a href = "https://web.stanford.edu/~lmackey/stats300a/index.html">Theory of Statistics</a>
+7. <a href = "http://statweb.stanford.edu/~tibs/sta305.html">Applied Statistics</a>
+8. 
 
 # Machine Learning Courses
 
