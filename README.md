@@ -10,6 +10,8 @@ Resources for Learning Probability and Statistics
 5. <a href = "http://willperkins.org/6221/">Advanced Classical Probability</a>
 6. <a href = "https://www.cs.cmu.edu/~psarkar/sds321.html">SDS321: Introduction to Probability and Statistics</a>
 7. <a href = "http://web.stanford.edu/class/stats310a/index.html">Theory of Probability</a>
+8. <a href = "http://statweb.stanford.edu/~adembo/stat-310b/">Theory of Probability 2</a>
+9. <a href = "https://web.stanford.edu/class/stats310c/notes.html">Theory of Probability 3</a>
 
 # Statistics Courses
 
@@ -20,7 +22,10 @@ Resources for Learning Probability and Statistics
 5. <a href = "http://www2.stat.duke.edu/~rcs46/bayes.html">STA 360/601: Bayesian Methods and Modern Statistics</a>
 6. <a href = "https://web.stanford.edu/~lmackey/stats300a/index.html">Theory of Statistics</a>
 7. <a href = "http://statweb.stanford.edu/~tibs/sta305.html">Applied Statistics</a>
-8. 
+8. <a href = "http://web.stanford.edu/class/stats300b/syllabus.html">Theory of Statistics 2</a>
+9. <a href = "http://statweb.stanford.edu/~ckirby/brad/">Applied Statistics 2</a>
+10. <a href = "https://statweb.stanford.edu/~candes/teaching/stats300c/lectures.html">Theory of Statistics 3</a>
+11. <a href = "http://statweb.stanford.edu/~owen/courses/305c/">Applied Statistics 3</a>
 
 # Machine Learning Courses
 
