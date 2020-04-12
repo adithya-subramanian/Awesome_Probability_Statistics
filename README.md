@@ -39,3 +39,4 @@ Resources for Learning Probability and Statistics
 8. <a href = "https://shanzhenren.github.io/csci-699-replnlp-2019fall/">Advanced Topics in Representation Learning for NLP</a>
 9. <a href = "http://ink-ron.usc.edu/xiangren/ml4know19spring/schedule.html">Machine Learning for Knowledge Extraction and Reasoning</a>
 10. <a href = "http://ink-ron.usc.edu/xiangren/ie18fall/schedule.html">Introduction to Information Extraction</a>
+11. <a href = "https://www.cmpe.boun.edu.tr/~cemgil/Courses/cmpe547/index.html">CMPE547 - Bayesian Statistics and Machine Learning</a>
