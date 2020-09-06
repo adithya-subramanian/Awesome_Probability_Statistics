@@ -40,3 +40,4 @@ Resources for Learning Probability and Statistics
 9. <a href = "http://ink-ron.usc.edu/xiangren/ml4know19spring/schedule.html">Machine Learning for Knowledge Extraction and Reasoning</a>
 10. <a href = "http://ink-ron.usc.edu/xiangren/ie18fall/schedule.html">Introduction to Information Extraction</a>
 11. <a href = "https://www.cmpe.boun.edu.tr/~cemgil/Courses/cmpe547/index.html">CMPE547 - Bayesian Statistics and Machine Learning</a>
+12. <a href = "http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/index.html">Probabilistic Models of Discrete Data</a>
